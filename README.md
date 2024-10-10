@@ -3,6 +3,8 @@
 ### Project Brief
 This simple automation project arose from the realization that I was spending countless hours on repetitive tasks such as copying data from Excel and manually pasting & formatting it into Word documents. To make this process more efficient and save time, I developed an automation solution using Python (with `pandas` and `python-docx`). It not only allowed me to practice my coding skills but also cut down my manual work by around 83%.
 
+During the project, I asked for help from ChatGPT in building parts of the code, specifically for iterating through dataframes, handling document formatting using python-docx and aligning tables and paragraphs.
+
 ### Key Features
 - Automatically generate incentive reports in Word, structured with team-level breakdowns, team lead performance, and employee-specific metrics.
 - Use of Python’s `pandas` for data manipulation and `python-docx` to create Word documents programmatically, including tables, headers, and formatting.
